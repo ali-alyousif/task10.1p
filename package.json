@@ -7,11 +7,13 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "express": "^4.17.1",
+    "gulp": "^4.0.2",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-input-checkbox": "^0.1.6",
     "react-scripts": "3.4.3",
+    "reakit": "^1.2.5",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.0"
   },
